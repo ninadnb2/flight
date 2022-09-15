@@ -18,7 +18,8 @@
 
 	5.Model Building- ML algorithms were applied to generate predictions.
 
-**Algorithms used- **
+
+**Algorithms used-**
 
 	1.Ridge regression
 	2.Lasso regression
